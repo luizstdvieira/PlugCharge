@@ -1,0 +1,6 @@
+{
+  "name": "VoltPad ESP32-S3",
+  "description": "Painel de controle e telemetria em tempo real para totem de carregamento por indução com ESP32-S3, display LCD 16x2 e Google Maps.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
